@@ -9,13 +9,6 @@ lab:
 ## Student lab manual
 
 ## Instructions to create an Azure DevOps Organization (you only have to do this once)
-
-### Start here if you don't have an Azure subscription
-
-1. Get a new **Azure Pass promocode** from the instructor or other source.
-1. Use a private browser session to get a new **personal Microsoft Account (MSA)** at [https://account.microsoft.com](https://account.microsoft.com).
-1. Using the same browser session, go to [https://www.microsoftazurepass.com](https://www.microsoftazurepass.com) to redeem your Azure Pass using your Microsoft Account (MSA). For details, see [Redeem a Microsoft Azure Pass](https://www.microsoftazurepass.com/Home/HowTo?Length=5). Follow the instructions for redemption.
-
 ### Start here if you have an Azure subscription
 
 1. Open a browser and navigate to [https://portal.azure.com](https://portal.azure.com), then search at the top of the Azure portal screen for **Azure DevOps**. In the resulting page, click **Azure DevOps organizations**.
